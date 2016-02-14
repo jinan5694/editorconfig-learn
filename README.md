@@ -1,3 +1,5 @@
+[editorconfig](http://editorconfig.org/)
+
 ## EditorConfig是什么？
 
 EditorConfig可以帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。EditorConfig包含一个用于定义代码格式的文件和一批编辑器插件，这些插件可以让编辑器读取配置文件并依此格式化代码。
