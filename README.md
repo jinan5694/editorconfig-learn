@@ -1,0 +1,2 @@
+# editorconfig-learn
+editorconfig learn
